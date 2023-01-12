@@ -1,0 +1,19 @@
+{
+  "name": "volair",
+  "version": "0.0.1",
+  "description": "VolAir travel agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagomoreta/travel_agency.git"
+  },
+  "author": "Santiago Moreta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagomoreta/travel_agency/issues"
+  },
+  "homepage": "https://github.com/santiagomoreta/travel_agency#readme"
+}
